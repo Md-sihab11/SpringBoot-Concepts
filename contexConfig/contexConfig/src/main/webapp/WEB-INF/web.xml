@@ -15,7 +15,6 @@
     <servlet>
 
         <servlet-name>PaymentServlet</servlet-name>
-
         <servlet-class>
             com.servlet.contexConfig.Servlett
         </servlet-class>
